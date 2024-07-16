@@ -14,6 +14,14 @@ public class HomePageRepo {
 		PageFactory.initElements(driver, this);
 	}
 	
+	@FindBy(linkText = "Products")
+	private WebElement prdButton;
+	
+	
+	public WebElement getPrdButton() {
+		return prdButton;
+	}
+
 	@FindBy(linkText = "Organizations")
 	private WebElement organizationButton;
 
