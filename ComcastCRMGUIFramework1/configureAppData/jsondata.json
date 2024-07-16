@@ -1,0 +1,6 @@
+{
+  "Browser" : "chrome",
+   "url"    :  "https://www.google.com"
+   "username" : "admin",
+   "timeout"  : 20
+}

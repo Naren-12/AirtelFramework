@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-15T12:05:56 IST" name="Default suite" finished-at="2024-07-15T12:09:54 IST" duration-ms="238522">
+    <groups>
+      <group name="Smoke Testing">
+        <method signature="CreateContactTest.createContact()[pri:0, instance:com.crm.contacttest.CreateContactTest@3b0fe47a]" name="createContact" class="com.crm.contacttest.CreateContactTest"/>
+      </group> <!-- Smoke Testing -->
+    </groups>
+    <test started-at="2024-07-15T12:05:56 IST" name="Default test" finished-at="2024-07-15T12:09:54 IST" duration-ms="238522">
+      <class name="com.crm.contacttest.CreateContactTest">
+        <test-method is-config="true" signature="configBefoSuite()[pri:0, instance:com.crm.contacttest.CreateContactTest@3b0fe47a]" started-at="2024-07-15T12:05:55 IST" name="configBefoSuite" finished-at="2024-07-15T12:05:56 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBefoSuite -->
+        <test-method is-config="true" signature="configBefoClass()[pri:0, instance:com.crm.contacttest.CreateContactTest@3b0fe47a]" started-at="2024-07-15T12:05:56 IST" name="configBefoClass" finished-at="2024-07-15T12:05:58 IST" duration-ms="2694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBefoClass -->
+        <test-method is-config="true" signature="configBefoMethod()[pri:0, instance:com.crm.contacttest.CreateContactTest@3b0fe47a]" started-at="2024-07-15T12:05:58 IST" name="configBefoMethod" finished-at="2024-07-15T12:06:02 IST" duration-ms="3410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBefoMethod -->
+        <test-method signature="createContact()[pri:0, instance:com.crm.contacttest.CreateContactTest@3b0fe47a]" started-at="2024-07-15T12:06:02 IST" name="createContact" finished-at="2024-07-15T12:09:52 IST" duration-ms="230549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+        <test-method is-config="true" signature="configAftMethod()[pri:0, instance:com.crm.contacttest.CreateContactTest@3b0fe47a]" started-at="2024-07-15T12:09:52 IST" name="configAftMethod" finished-at="2024-07-15T12:09:54 IST" duration-ms="1583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAftMethod -->
+        <test-method is-config="true" signature="configAftClass()[pri:0, instance:com.crm.contacttest.CreateContactTest@3b0fe47a]" started-at="2024-07-15T12:09:54 IST" name="configAftClass" finished-at="2024-07-15T12:09:54 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAftClass -->
+        <test-method is-config="true" signature="configAftSuite()[pri:0, instance:com.crm.contacttest.CreateContactTest@3b0fe47a]" started-at="2024-07-15T12:09:54 IST" name="configAftSuite" finished-at="2024-07-15T12:09:54 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAftSuite -->
+      </class> <!-- com.crm.contacttest.CreateContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
